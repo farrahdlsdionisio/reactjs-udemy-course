@@ -5,8 +5,8 @@ Dump of mini-projects from the udemy course that I'm currently taking:
 
 <h3>Includes:</h3>
 <ul>
- <li>1. React Essentials</li>
- <li>2. Tic-tac-toe</li> 
- <li>3. Investment Calculator</li>
+ <li>React Essentials</li>
+ <li>Tic-tac-toe</li> 
+ <li>Investment Calculator</li>
 </ul>
 <i>Other projects will be uploaded soon...</i>
